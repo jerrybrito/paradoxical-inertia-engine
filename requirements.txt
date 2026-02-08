@@ -1,0 +1,2 @@
+# Requires: quasi-delay
+# (Not available on PyPI)
